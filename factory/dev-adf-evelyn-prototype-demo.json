@@ -1,0 +1,9 @@
+{
+	"name": "dev-adf-evelyn-prototype-demo",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "70896166-f50e-4564-9819-6c7e797a2c5e",
+		"tenantId": "1533740a-5a10-403d-a915-0e2ac53e11b3"
+	}
+}
